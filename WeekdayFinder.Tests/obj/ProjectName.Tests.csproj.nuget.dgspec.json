@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName.Tests\\ProjectName.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName.Tests\\ProjectName.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName.Tests\\ProjectName.Tests.csproj",
+        "projectName": "ProjectName.Tests",
+        "projectPath": "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName.Tests\\ProjectName.Tests.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
+        "outputPath": "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName\\ProjectName.csproj": {
+                "projectPath": "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName\\ProjectName.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName\\ProjectName.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName\\ProjectName.csproj",
+        "projectName": "ProjectName",
+        "projectPath": "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName\\ProjectName.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
+        "outputPath": "c:\\users\\Jeffrey\\documents\\epicodus\\csharp\\weekdayfinder.solution\\ProjectName\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

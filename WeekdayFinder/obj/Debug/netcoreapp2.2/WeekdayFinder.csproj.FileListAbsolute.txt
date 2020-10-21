@@ -1,0 +1,9 @@
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.csprojAssemblyReference.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.csproj.CoreCompileInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.AssemblyInfoInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.AssemblyInfo.cs
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\bin\Debug\netcoreapp2.2\WeekdayFinder.deps.json
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\bin\Debug\netcoreapp2.2\WeekdayFinder.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\bin\Debug\netcoreapp2.2\WeekdayFinder.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\WeekdayFinder\obj\Debug\netcoreapp2.2\WeekdayFinder.pdb

@@ -1,0 +1,17 @@
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.deps.json
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.runtimeconfig.json
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.runtimeconfig.dev.json
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\WeekdayFinder.Tests.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\WeekdayFinder.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\bin\Debug\netcoreapp2.2\WeekdayFinder.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.csprojAssemblyReference.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.csproj.CoreCompileInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.AssemblyInfoInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.AssemblyInfo.cs
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.csproj.CopyComplete
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\weekdayfinder.solution\weekdayfinder.tests\obj\Debug\netcoreapp2.2\WeekdayFinder.Tests.pdb
