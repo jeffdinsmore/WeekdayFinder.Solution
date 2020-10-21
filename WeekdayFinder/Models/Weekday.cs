@@ -34,13 +34,19 @@ namespace WeekdayFinder.Models
       return Year;
     }
 
-    public int ZellersEquation(double month, double day, string year)
+    public int ZellersEquation(string stringMonth, double day, string year)
     {
+      Dictionary<string, string> months = new Dictionary<string, string>() { {"january", "11"}, {"february", "12"}, {"march", "1"}, {"april", "2"}, {"may", "3"}, {"june", "4"}, {"july", "5"}, {"august", "6"}, {"september", "7"}, {"october", "8"}, {"november", "9"}, {"december", "10"} }; 
+      
+      string monthString = months[stringMonth];
+      double month = int.Parse(monthString);
+
       string twoDigitYearString = year.Substring(2,2);
       double twoDigitYear = int.Parse(twoDigitYearString);
+
       string centuryString = year.Substring(0,2);
       double century = int.Parse(centuryString);
-      double g = Math.Floor((13*month-1)/5);
+
       double Day = day + Math.Floor((13*month-1)/5) + twoDigitYear + Math.Floor(twoDigitYear/4) + Math.Floor(century/4) - (2*century);
       if (Day < 0 && Day > -7)
       {

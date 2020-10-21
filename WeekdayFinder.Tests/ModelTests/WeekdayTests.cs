@@ -45,7 +45,7 @@ namespace WeekdayFinder.Tests
       Weekday equate = new Weekday();
       string year = "2001";
       double day = 28;
-      double month = 1;
+      string month = "march";
       Assert.AreEqual(3, equate.ZellersEquation(month, day, year));
     }
   }
